@@ -1,2 +1,2 @@
-# Artificial Neural Nets and Deep Learning Class Competition 22'
+# Artificial Neural Nets and Deep Learning Competition 22'
  
