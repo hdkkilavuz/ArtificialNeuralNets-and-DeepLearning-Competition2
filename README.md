@@ -2,7 +2,7 @@
 
 In this competition, we are asked to correctly classify samples in the multivariate time series format. In other words, since this is a classification problem, the objective is to correctly map the information contained in the features calculated over time to their labels.
 
-Dataset Details:
+Dataset Details: \
 Time series shape: 2429x36x6
 File format: .npy
 Number of classes: 12
