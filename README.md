@@ -13,10 +13,10 @@ Classes: \
 3: "Money" \
 4: "Breathe" \
 5: "Time" \
-6: "Brain"
-7: "Echoes"
-8: "Wearing"
-9: "Sorrow"
-10: "Hey"
-11: "Shine"
+6: "Brain" \
+7: "Echoes" \
+8: "Wearing" \
+9: "Sorrow" \
+10: "Hey" \
+11: "Shine" \
 The data is located within the document 'training_dataset_homework2.zip', which once extracted, will return the documents 'x_train.npy' and 'y_train.npy'.
