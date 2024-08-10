@@ -1,4 +1,4 @@
-# Artificial Neural Nets and Deep Learning Competition 22'
+# Multivariate Time Series Classification with Deep Learning Model
 
 In this competition, we are asked to correctly classify samples in the multivariate time series format. In other words, since this is a classification problem, the objective is to correctly map the information contained in the features calculated over time to their labels.
 
